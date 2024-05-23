@@ -46,8 +46,7 @@ This project involves the development of a leg-based game controller utilizing p
 ## Conclusion
 The leg-based game controller using piezo sensors is a novel way to interact with digital games, making them more engaging and physically stimulating. It not only enhances the gaming experience but also promotes physical activity and learning through interactive play. This project showcases the potential of combining hardware and software to create innovative solutions that bridge the gap between digital entertainment and physical exercise.
 
-## Contact
-For any queries or further information, please contact [Your Name] at [Your Contact Information].
+
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
